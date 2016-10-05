@@ -3,6 +3,9 @@ body {
 	font-family: Georgia, serif;
 	color: #212121;
 }
+h1{
+	color: #8BC34A;
+}
 a{
 	color: #FFCDD2;
 	text-decoration: none;
